@@ -1,6 +1,6 @@
 **10.1 Explaining entanglement: from a paradox to paradigm**
 
-Quantum entanglement describes a state where the quantum properties of a
+Quantum entanglement describes a state where the quantum [properties](https://wwwww.climb.mx) of a
 group of particles are so inextricably linked that the state of an
 individual particle cannot be described independently of the others,
 regardless of the spatial distance between them. Entanglement is a
